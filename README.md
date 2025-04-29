@@ -18,7 +18,7 @@ I turn complex ideas into smooth, structured projects — connecting creative mi
 `Jira | Smartsheet | ServiceNow | WordPress | Figma | Confluence | Harvest | Google Workspace | AI Tools`
 
 🔹🦄 **Fun facts:**  
-- Delivered multiple MVPs, including a custom **dog food subscription site** 🐾🦴 and a **legal content platform** 📚⚖️.  
+- Delivered multiple MVPs, including a custom **dog food e-commerce subscription site** 🐾🦴 and a **legal content platform** 📚⚖️.  
 - Always fueled by creativity, collaboration, and a little bit of coffee magic ☕✨.
 
 ---
