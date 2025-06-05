@@ -1,6 +1,6 @@
 # ✨ Hi there, I'm Lilia Moreno — Project Manager ✨
 
-Welcome to my professional corner! I'm a bilingual (Spanish/English) **Project Manager** with 8+ years of experience leading cross-functional teams across **technology, digital marketing, e-commerce**, and **cloud services**.
+Welcome to my professional corner! I'm a bilingual (Spanish/English) **Project Manager** with experience leading cross-functional teams across **technology, digital marketing, e-commerce**, and **cloud services**.
 
 🔹 💖 **What I do best:**  
 I turn complex ideas into smooth, structured projects — connecting creative minds, developers, and stakeholders to deliver real results. From **UX/UI website launches** to **cloud communication solutions** and **marketing campaigns**, I make sure every piece fits perfectly (and deadlines are *not optional* 🎯).
